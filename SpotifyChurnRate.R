@@ -2,15 +2,6 @@
 ### Course: DTI5126 – Fundamental of Applied Data Science
 ### Date: November 18th, 2025
 
-### Group members: 
-
-#Ngoc Khanh Trinh - ID: 300448582 - Tasks: Designed & populated presentation slides. Modified & optimized feature engineering & supervised learning models. Contributed to unsupervised learning models. Led final conclusions. 
-#Juan Sebastian Ramirez Acua - ID: 300459414 - Tasks: Led supervised learning models. Contributed to presentation slides & content.
-#Ignancya Michelle George - ID: 300460808 - Tasks: Led unsupervised learning models. Contributed to presentation slides & content.
-#Udi Bhasin - ID: 300475136 - Tasks: Led unsupervised learning models. Contributed to presentation slides & content.
-#Ferdous Pathan - ID: 300513282 - Tasks: Led supervised learning models. Contributed to presentation slides & content.
-#Julian Vu Hoang - ID: 300514180 - Tasks: Created outline for presentation slides. Modified & optimized supervised learning models. Contributed to unsupervised learning models. Finalized R code file. 
-
 ### Problem Statement:
 
 #User churn represents a critical business challenge for subscription-based streaming platforms such as Spotify. 
@@ -27,10 +18,6 @@
 #as well as clear actionable insights that product and marketing teams can capitalize on.
 
 
-### ==================================================================================#####
-### ==================================================================================#####
-### ==================================================================================#####
-### ==================================================================================#####
 
 # I. IMPORT PACKAGES & DATASET
 install.packages(c("dplyr", "stringr", "tidyr", "forcats", "janitor"))
@@ -2121,3 +2108,4 @@ cat(sprintf("LOW-RISK PERSONA: Cluster %s (%.1f%% churn rate)\n\n",
 
 
 cat("========================================================\n")
+
